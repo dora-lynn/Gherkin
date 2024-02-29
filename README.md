@@ -1,10 +1,10 @@
 Keyboard layout in use
-Characters on the same line (separated by "/") are multitap. Ex: First tap is "U" second "_"
-Characters on the line below are activated by holding the key. Ex. First press of the key is "Tab" holding activates "Shift"
+* Characters on the same line (separated by "/") are multitap. Ex: First tap is "U" second "_"
+* Characters on the line below are activated by holding the key. Ex. First press of the key is "Tab" holding activates "Shift"
 
-XXXX has no functionality
-blank spaces utilize the functionality of the lower layer.
-TG(layer number) Toggles the selected layer on/off
+* XXXX has no functionality
+* blank spaces utilize the functionality of the lower layer.
+* TG(layer number) Toggles the selected layer on/off
 
 Layer 0
 | Q/ESC |	W | E |	R |	T/:/; |	Y/,/. |	U/_   |	I |	O         |	P |
